@@ -1,0 +1,14 @@
+<html>
+<head>
+  <title>Home page</title>
+</head>
+<body>
+  <h2><u>Welcome to my Website</u></h2>
+  <p>Simple computer website made by Suneeta</p>
+  <a href="index">Home</a>   |
+  <a href="about">About</a>    |
+  <a href="contect">Contect</a>  |
+  <a href="technology">technology</a>    |
+  <a href="help">help</a>          |
+</body>
+</html>
